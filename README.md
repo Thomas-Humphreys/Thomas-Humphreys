@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am a second year Computing and Management student at University. <br>I am currently working towards becoming a full stack developer.<br>Currently working on Notique.app <br>20 years old<br><br>How to reach me: <br>- thomaswhumphreys25@gmail.com <br>- +44 07492893722 <br>Pronouns: He / Him<br>
+Hello! I am a second year Computing and Management student at University. <br>I am currently working towards becoming a full stack developer.<br>Currently working on Notique.app <br>20 years old<br><br>Number: +44 07492893722 <br>Pronouns: He / Him<br>
 
 
 ## 🌐 Socials:
